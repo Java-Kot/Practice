@@ -32,6 +32,10 @@ public class DrawSome {
                     }
                     System.out.println("");
                 }
+                break;
+            default:
+                System.out.println("Không có lựa chọn này !!!");
+
         }
     }
 }
