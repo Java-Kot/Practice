@@ -15,8 +15,7 @@ public class Uocchung {
         while (a != b) {
             if (a > b) {
                 a = a - b;
-            }
-            else {
+            } else {
                 b = b - a;
             }
             System.out.println("Greatest common factor: " + a);
